@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joshua Fowler
+- 👀 I’m interested in wood working, machine tinkering, video games, life, and coding
+- 🌱 I’m currently learning how to code mobile applications and other web based programs
+- 📫 How to reach me: fowlerjo.gmatc.matc.edu
