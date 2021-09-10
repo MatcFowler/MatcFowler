@@ -1,0 +1,33 @@
+{
+  "name": "matcfowler",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m Joshua Fowler\r - 👀 I’m interested in wood working, machine tinkering, video games, life, and coding\r - 🌱 I’m currently learning how to code mobile applications and other web based programs\r - 📫 How to reach me: fowlerjo.gmatc.matc.edu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm server.js",
+    "server": "nodemon -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatcFowler/MatcFowler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatcFowler/MatcFowler/issues"
+  },
+  "homepage": "https://github.com/MatcFowler/MatcFowler#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "mongoose": "^6.0.5"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
+  }
+}
